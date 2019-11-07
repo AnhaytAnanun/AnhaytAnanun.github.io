@@ -1,0 +1,31 @@
+html {
+  scroll-behavior: smooth;
+}
+
+h4.section-header {
+	padding: 12px;
+}
+
+h5.blockquote-ghost {
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+}
+
+div.left-blockquote {
+  margin: 0px 0;
+  padding: 0px;
+  border-left: 5px solid #b71c1c;
+}
+
+div.bottom-blockquote {
+  margin: auto;
+  padding: 0px;
+  border-bottom: 5px solid #b71c1c;
+  max-width: 50px;
+}
+
+.force-left {
+	margin-left: 0px !important;
+}
