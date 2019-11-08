@@ -26,6 +26,10 @@ div.bottom-blockquote {
   max-width: 50px;
 }
 
+.underline {
+  text-decoration: underline;
+}
+
 .force-left {
 	margin-left: 0px !important;
 }
